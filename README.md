@@ -225,7 +225,7 @@ macOS 不允许后台 App 在失焦时读取按键。辅助功能权限只用于
 | [使用](#-使用) | 基本操作、macOS 26 菜单栏、可靠 ESC |
 | [原理](#-原理) | 菜单栏、覆盖层、键盘监听和光标隐藏的实现 |
 | [对比](#-对比) | 与 One Switch、macOS 显示器睡眠的差异 |
-| [Roadmap](#-roadmap) | 已完成和计划中的能力 |
+| [Roadmap](#️-roadmap) | 已完成和计划中的能力 |
 | [FAQ](#-faq) | 常见问题 |
 | [贡献](#-贡献) | Fork、分支、提交和 PR 流程 |
 | [源码](Sources/main.swift) | Swift/AppKit 主实现 |

@@ -225,7 +225,7 @@ The code creates one black overlay per screen, but it has only been validated on
 | [Usage](#-usage) | Basic controls, macOS 26 menu bar, reliable ESC |
 | [How It Works](#-how-it-works) | Menu bar item, overlay windows, key monitors, cursor hiding |
 | [Comparison](#-comparison) | Differences from One Switch and macOS Display Sleep |
-| [Roadmap](#-roadmap) | Completed and planned work |
+| [Roadmap](#️-roadmap) | Completed and planned work |
 | [FAQ](#-faq) | Common questions |
 | [Contributing](#-contributing) | Fork, branch, commit, and PR workflow |
 | [Source](Sources/main.swift) | Swift/AppKit implementation |
